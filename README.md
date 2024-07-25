@@ -8,6 +8,3 @@
     usar uma interação " on click " nos botões para mostrar o diferencial do pinguim clicando na foto dele.
     
 <img src="https://github.com/renantleite/Pingudo/blob/main/Pingudo.jpg" alt="Pinguins imperiaris">
-
-
-##  **EU AMO A IANDARA GLOBOS**
